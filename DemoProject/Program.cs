@@ -54,7 +54,8 @@ namespace DemoProject // Note: actual namespace depends on the project name.
             int num7 = (int)(num4 + num2);
             Console.WriteLine(num7);
 
-
+            //User Inputs
+            Console.WriteLine("Hello World");
 
 
         }
